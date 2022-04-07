@@ -20,15 +20,16 @@
 ### Frameworks & Software I've Worked WIth!
 1. Express
 2. ReactJS
-3. Flask
-4. MongoDB
-5. MySQL
-6. TensorFlow
-7. PyTorch
-8. Bootstrap
-9. Matplotlib & Seaborn
-10. Plotly
-11. Numpy & Pandas
+3. FlaskJinja2 
+4. SQAlchemy
+5. MongoDB
+6. MySQL
+7. TensorFlow
+8. PyTorch
+9. Bootstrap
+10. Matplotlib & Seaborn
+11. Plotly
+12. Numpy & Pandas
 
 ### Areas of Coding I've Explored!
 1. Front-End Web Development
