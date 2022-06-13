@@ -2,6 +2,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amidstdebug&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Here are some projects that I've worked on!
 
 1. [MERN Stack Project](https://github.com/amidstdebug/MERN-Stack)
