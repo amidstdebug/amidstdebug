@@ -49,6 +49,7 @@ Markdown   0 secs          ▒░░░░░░░░░░░░░░░░�
 2. Back-End Web Development
 3. Data Analysis
 4. Data Visualisation
+5. Machine Learning & AI
 
 ### How To Reach Me!
 1. [Email](mailto:justineong325@gmail.com)
