@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 June 2022 - To: 16 June 2022
+From: 10 June 2022 - To: 17 June 2022
 
-Jupyter    5 hrs 33 mins   ████████████████████████░   95.68 %
-Text       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Jupyter    9 hrs 39 mins   ████████████████████████▒   97.39 %
+Text       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+CSV/TSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
