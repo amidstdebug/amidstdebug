@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 Jupyter    9 hrs 39 mins   ████████████████████████▒   97.39 %
 Text       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
