@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 30 June 2022
+From: 24 June 2022 - To: 01 July 2022
 
-Jupyter   10 mins         ██████████████████░░░░░░░   72.46 %
-SQL       4 mins          ███████░░░░░░░░░░░░░░░░░░   27.54 %
+SQL       49 mins         ████████████████████▒░░░░   81.96 %
+Jupyter   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
 ```
 
 <!--END_SECTION:waka-->
