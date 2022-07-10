@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 Jupyter   8 hrs 16 mins   ████████████████████████▒   97.72 %
 Python    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
