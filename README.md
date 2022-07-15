@@ -29,8 +29,10 @@ Python    0 secs          ░░░░░░░░░░░░░░░░░░
 3. HTML
 4. CSS
 5. MySQL
+6. Transact SQL (T-SQL)
+7. MongoDB Query Language (MQL)
 
-### Frameworks & Software I've Worked WIth!
+### Frameworks & Software I've Worked With!
 1. Express
 2. ReactJS
 3. FlaskJinja2 
@@ -43,13 +45,18 @@ Python    0 secs          ░░░░░░░░░░░░░░░░░░
 10. Matplotlib & Seaborn
 11. Plotly
 12. Numpy & Pandas
+13. sklearn
+14. Google Cloud SQL
+15. StatsModels
 
-### Areas of Coding I've Explored!
+### Areas of Coding I'm Qualified In!
 1. Front-End Web Development
 2. Back-End Web Development
 3. Data Analysis
 4. Data Visualisation
-5. Machine Learning & AI
+5. Data Engineering
+6. Machine Learning & Neural Networks
+
 
 ### How To Reach Me!
 1. [Email](mailto:justineong325@gmail.com)
