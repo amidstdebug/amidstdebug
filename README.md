@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 July 2022 - To: 19 July 2022
+From: 13 July 2022 - To: 20 July 2022
 
-Jupyter   3 hrs 16 mins   ██████████████████████▓░░   90.54 %
-SQL       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Jupyter   1 hr 32 mins    ████████████████████▓░░░░   82.09 %
+SQL       20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
 ```
 
 <!--END_SECTION:waka-->
