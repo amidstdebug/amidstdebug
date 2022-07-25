@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 23 July 2022
+From: 17 July 2022 - To: 24 July 2022
 
-Jupyter    2 hrs 23 mins   █████████████▒░░░░░░░░░░░   52.90 %
-SQL        2 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   47.05 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+SQL        2 hrs 54 mins   █████████████▓░░░░░░░░░░░   55.05 %
+Jupyter    2 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.21 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+CSV/TSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
