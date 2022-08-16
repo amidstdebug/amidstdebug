@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-Jupyter      8 hrs 35 mins   █████████████████████▒░░░   85.15 %
-SQL          1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Python       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Jupyter   6 hrs 1 min     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
