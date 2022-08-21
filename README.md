@@ -5,9 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
-Jupyter   0 secs          █████████████████████████   100.00 %
+Jupyter   6 mins          ██████████████████▒░░░░░░   73.68 %
+CSV/TSV   2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
 ```
 
 <!--END_SECTION:waka-->
