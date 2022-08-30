@@ -5,14 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
-Jupyter          4 hrs 45 mins   █████████████████████░░░░   84.25 %
-Markdown         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-CSV/TSV          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Text             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-JavaScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-PowerShell       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Jupyter   4 hrs 4 mins    ███████████████████████▓░   94.17 %
+Text      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+CSV/TSV   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
