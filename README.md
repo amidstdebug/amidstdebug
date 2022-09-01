@@ -14,18 +14,16 @@ Text      0 secs          ░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Here are some projects that I've worked on!
-1. [Machine Failure Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/Machine%20Failure%20Prediction%20Model)
-2. [PC Price Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/PC%20Price%20Prediction%20Model)
-3. [Air Pollution Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA2/Air%20Pollution%20Prediction%20Model)
-4. [Employee Profiling Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA2/Employee%20Profiling%20Model)
-5. [Portfolio Website](https://github.com/amidstdebug/HTML-CSS-CA2)
-6. [Commercial OLTP & OLAP Database Systems](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/Data%20Engineering/CA2/Main%20Branch)
-7. [Data Analysis on Purchase Viability of Cars in SG](https://github.com/amidstdebug/DAAA-Sem-2/tree/main/PDAS/DAAA1B04_2112646_Justin_Wong_Juin_Hng)
-8. [Data Visualisation on Purchase Viability of Cars in SG](https://github.com/amidstdebug/DAAA-Sem-2/tree/main/DAVI/P2112646_Justin_Wong_Juin_Hng)
-9. [E-Commerce Website for Tech Products](https://github.com/amidstdebug/DAAA-Sem-2/tree/main/BEWD/Assignments/bed-assignment-2)
-10. [MERN Stack Project](https://github.com/amidstdebug/MERN-Stack)
-11. [Python Web App](https://github.com/amidstdebug/Python-Web-App)
-12. [Food Ordering System w/ JavaScript](https://github.com/amidstdebug/Restaurant-Ordering-System)
+[Custom Multi-Linear Regression Model](https://github.com/amidstdebug/DAAA-Y2-S1/blob/main/Maths/CA2/Maths%20Assignment%202.docx)
+[Machine Failure Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/Machine%20Failure%20Prediction%20Model)
+[PC Price Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/PC%20Price%20Prediction%20Model)
+[Air Pollution Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA2/Air%20Pollution%20Prediction%20Model)
+[Employee Profiling Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA2/Employee%20Profiling%20Model)
+[Commercial OLTP & OLAP Database Systems](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/Data%20Engineering/CA2/Main%20Branch)
+[Data Analysis on Purchase Viability of Cars in SG](https://github.com/amidstdebug/DAAA-Sem-2/tree/main/PDAS/DAAA1B04_2112646_Justin_Wong_Juin_Hng)
+[Data Visualisation on Purchase Viability of Cars in SG](https://github.com/amidstdebug/DAAA-Sem-2/tree/main/DAVI/P2112646_Justin_Wong_Juin_Hng)
+[E-Commerce Website for Tech Products](https://github.com/amidstdebug/DAAA-Sem-2/tree/main/BEWD/Assignments/bed-assignment-2)
+[Food Ordering System w/ JavaScript](https://github.com/amidstdebug/Restaurant-Ordering-System)
 
 
 
