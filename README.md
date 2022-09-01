@@ -72,5 +72,5 @@ Text      0 secs          ░░░░░░░░░░░░░░░░░░
 
 
 ### How To Reach Me!
-1. [Email](mailto:justineong325@gmail.com)
+1. [Email](mailto:work@jwjh.onmicrosoft.com)
 2. [Instagram](https://www.instagram.com/1kdegree)
