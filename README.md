@@ -5,10 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
+From: 26 August 2022 - To: 02 September 2022
 
-Jupyter   3 hrs 8 mins    █████████████████████████   100.00 %
-Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Jupyter   1 hr 27 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
