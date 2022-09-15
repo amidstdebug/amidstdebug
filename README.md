@@ -5,7 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 September 2022 - To: 14 September 2022
+
+Jupyter   33 mins         ████████████████████████▓   98.12 %
+Python    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
