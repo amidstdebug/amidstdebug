@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
 Jupyter   33 mins         ████████████████████████▓   98.12 %
 Python    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
