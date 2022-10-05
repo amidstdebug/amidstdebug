@@ -5,7 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 September 2022 - To: 04 October 2022
+
+Markdown         3 mins          ████████░░░░░░░░░░░░░░░░░   31.46 %
+CSV/TSV          3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.99 %
+GitIgnore file   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+Text             1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+AUTO_DETECTED    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
