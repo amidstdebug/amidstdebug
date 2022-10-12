@@ -5,14 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
+From: 04 October 2022 - To: 11 October 2022
 
-Python           13 mins         ██████████████▒░░░░░░░░░░   57.99 %
-Markdown         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-CSV/TSV          3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-GitIgnore file   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Text             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-AUTO_DETECTED    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Jupyter          18 mins         ██████████████▒░░░░░░░░░░   57.72 %
+Python           13 mins         ██████████▓░░░░░░░░░░░░░░   42.28 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
