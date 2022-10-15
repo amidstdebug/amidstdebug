@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
+From: 07 October 2022 - To: 14 October 2022
 
-Jupyter          59 mins         █████████████████▓░░░░░░░   70.99 %
-Python           22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-PowerShell       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Jupyter      1 hr 17 mins    █████████████████████▒░░░   85.85 %
+Python       11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+PowerShell   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
