@@ -5,10 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2022 - To: 20 October 2022
+From: 14 October 2022 - To: 21 October 2022
 
-Python    1 hr 18 mins    ███████████████████▓░░░░░   78.17 %
-Jupyter   22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Jupyter   2 hrs 7 mins    █████████████▒░░░░░░░░░░░   52.85 %
+Python    1 hr 54 mins    ███████████▓░░░░░░░░░░░░░   47.12 %
+CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
