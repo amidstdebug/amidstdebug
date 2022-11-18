@@ -5,9 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
-Jupyter   3 hrs           █████████████████████████   100.00 %
+Python           1 hr 7 mins     █████████████░░░░░░░░░░░░   52.09 %
+HTML             34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+Jupyter          22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
