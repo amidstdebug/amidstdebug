@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Python           1 hr 7 mins     █████████████░░░░░░░░░░░░   52.09 %
-HTML             34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
-Jupyter          22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Python           1 hr 7 mins     █████████████░░░░░░░░░░░░   52.30 %
+HTML             34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+Jupyter          21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
