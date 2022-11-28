@@ -5,7 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 November 2022 - To: 27 November 2022
+
+JavaScript            1 hr 24 mins    █████████████████████▒░░░   85.86 %
+HTTP Request          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+JSON                  5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
