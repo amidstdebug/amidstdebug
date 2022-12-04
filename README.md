@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
 JavaScript            1 hr 54 mins    █████████████████░░░░░░░░   67.79 %
 Jupyter               28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
