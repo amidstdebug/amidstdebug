@@ -5,12 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-JavaScript     30 mins         ██████████▓░░░░░░░░░░░░░░   42.78 %
-Jupyter        28 mins         ██████████░░░░░░░░░░░░░░░   39.87 %
-HTTP Request   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Jupyter   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
