@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
-Jupyter          44 mins         ██████████████████░░░░░░░   71.49 %
-Python           16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Jupyter          44 mins         ████████████████████████▒   97.05 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
