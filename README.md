@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
 Python              12 hrs 3 mins   ███████████▒░░░░░░░░░░░░░   45.94 %
 HTML                11 hrs 39 mins  ███████████░░░░░░░░░░░░░░   44.42 %
