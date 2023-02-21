@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-Python              9 hrs 43 mins   █████████████▒░░░░░░░░░░░   53.21 %
-HTML                7 hrs 29 mins   ██████████▒░░░░░░░░░░░░░░   41.00 %
-Text                22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-GitIgnore file      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-requirements.txt    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Docker              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Python              6 hrs 53 mins   ██████████████▒░░░░░░░░░░   57.96 %
+HTML                3 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Text                22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+GitIgnore file      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+requirements.txt    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Docker              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
