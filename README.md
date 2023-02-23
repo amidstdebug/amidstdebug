@@ -5,13 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-Python           1 hr 28 mins    ████████████████████▓░░░░   82.58 %
-HTML             13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Jupyter          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Jupyter   0 secs          ████████████████████▓░░░░   82.76 %
+Python    0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
 ```
 
 <!--END_SECTION:waka-->
