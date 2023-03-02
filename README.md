@@ -5,10 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2023 - To: 27 February 2023
+From: 22 February 2023 - To: 01 March 2023
 
-Jupyter   0 secs          ████████████████████▓░░░░   82.76 %
-Python    0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
