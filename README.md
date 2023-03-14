@@ -5,14 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-Python           42 mins         ███████████████▓░░░░░░░░░   62.55 %
-CSV              16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-Markdown         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-CSV file         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-CSV/TSV          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Jupyter   5 hrs 8 mins    █████████████████████▓░░░   87.32 %
+JSON      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Python    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
