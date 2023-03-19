@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
-Jupyter   5 hrs 8 mins    █████████████████████▓░░░   87.32 %
-JSON      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Python    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Jupyter   5 hrs 12 mins   █████████████████████▒░░░   85.52 %
+JSON      33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Python    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+CSV       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
