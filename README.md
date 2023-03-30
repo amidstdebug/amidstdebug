@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 28 March 2023
+From: 22 March 2023 - To: 29 March 2023
 
 Python           3 hrs 58 mins   ████████████████████░░░░░   79.99 %
 Jupyter          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
