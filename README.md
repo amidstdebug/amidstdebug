@@ -5,9 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 11 April 2023
+From: 05 April 2023 - To: 12 April 2023
 
-Text   0 secs          █████████████████████████   100.00 %
+Vue.js              2 hrs 30 mins   ████████████████▓░░░░░░░░   66.52 %
+JavaScript          21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+CSS                 14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+TypeScript          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Text                10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+GitIgnore file      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
