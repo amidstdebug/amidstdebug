@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2023 - To: 21 May 2023
+From: 15 May 2023 - To: 22 May 2023
 
-JSON         4 mins          ██████████▓░░░░░░░░░░░░░░   42.26 %
-JavaScript   3 mins          ████████▒░░░░░░░░░░░░░░░░   33.23 %
-Jupyter      2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Jupyter   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
