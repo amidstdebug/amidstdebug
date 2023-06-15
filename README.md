@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2023 - To: 13 June 2023
+From: 07 June 2023 - To: 14 June 2023
 
-JavaScript       47 mins         █████████████████████████   99.78 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript       1 hr 40 mins    ███████████████████████▓░   94.91 %
+Vue.js           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
