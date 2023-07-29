@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2023 - To: 27 July 2023
+From: 21 July 2023 - To: 28 July 2023
 
-Jupyter      19 mins         ██████████████████████▓░░   91.23 %
-JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Vue.js       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JavaScript   1 min           ██████████▒░░░░░░░░░░░░░░   41.65 %
+Vue.js       0 secs          ████████▒░░░░░░░░░░░░░░░░   33.28 %
+Jupyter      0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
 ```
 
 <!--END_SECTION:waka-->
