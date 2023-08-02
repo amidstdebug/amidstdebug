@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2023 - To: 31 July 2023
+From: 25 July 2023 - To: 01 August 2023
 
 Jupyter      48 mins         ██████████████████████░░░   88.16 %
 Vue.js       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
