@@ -13,15 +13,20 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ### Here are some projects that I've worked on!
-[Custom Multi-Linear Regression Model](https://github.com/amidstdebug/DAAA-Y2-S1/blob/main/Maths/CA2/Maths%20Assignment%202.docx)
 
-[Machine Failure Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/Machine%20Failure%20Prediction%20Model)
+[CIFAR-100 GAN](https://github.com/amidstdebug/CIFAR100-GAN)
 
-[PC Price Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/PC%20Price%20Prediction%20Model)
+[CIFAR-100 Classifier](https://github.com/amidstdebug/CIFAR100-Classifier)
 
-[Air Pollution Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA2/Air%20Pollution%20Prediction%20Model)
+[Fashion MNIST Classifier](https://github.com/amidstdebug/Fashion-MNIST-Classifier)
 
-[Employee Profiling Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA2/Employee%20Profiling%20Model)
+[Machine Failure Prediction Model](https://github.com/amidstdebug/Machine-Failure-Prediction-Model)
+
+[PC Price Prediction Model](https://github.com/amidstdebug/PC-Price-Prediction-Model)
+
+[Air Pollution Prediction Model](https://github.com/amidstdebug/Air-Pollution-Prediction-Model)
+
+[Employee Profiling Model](https://github.com/amidstdebug/Employee-Profiling-Model)
 
 [Commercial OLTP & OLAP Database Systems](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/Data%20Engineering/CA2/Main%20Branch)
 
@@ -67,9 +72,9 @@ No activity tracked
 3. Data Analysis
 4. Data Visualisation
 5. Data Engineering
-6. Machine Learning & Neural Networks
+6. Machine Learning & Deep Learning
 
 
 ### How To Reach Me!
-1. [Email](mailto:work@jwjh.onmicrosoft.com)
+1. [Email](mailto:work@jwong.dev)
 2. [Instagram](https://www.instagram.com/1kdegree)
