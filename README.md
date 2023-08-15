@@ -14,6 +14,9 @@ No activity tracked
 
 ### Here are some projects that I've worked on!
 
+[Deep Learning Trading Model](https://github.com/amidstdebug/Deep-Learning-Trading-Model)
+
+
 [CIFAR-100 GAN](https://github.com/amidstdebug/CIFAR100-GAN)
 
 [CIFAR-100 Classifier](https://github.com/amidstdebug/CIFAR100-Classifier)
