@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2023 - To: 29 August 2023
+From: 23 August 2023 - To: 30 August 2023
 
-Markdown         14 mins         ██████████████████▒░░░░░░   72.89 %
-GitIgnore file   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
