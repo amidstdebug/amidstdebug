@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 Bash         2 mins          ███████████▓░░░░░░░░░░░░░   47.07 %
 Text         2 mins          ███████████▒░░░░░░░░░░░░░   45.53 %
