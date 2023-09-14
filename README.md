@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Bash         2 mins          ███████████▓░░░░░░░░░░░░░   47.07 %
-Text         2 mins          ███████████▒░░░░░░░░░░░░░   45.53 %
-Vue.js       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python             59 mins         ████████████████▓░░░░░░░░   66.17 %
+Jupyter            21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+ActionScript       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Vue.js             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
