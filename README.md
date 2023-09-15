@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Python             59 mins         ████████████████▓░░░░░░░░   66.17 %
-Jupyter            21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-ActionScript       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Vue.js             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Jupyter            2 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
+Python             2 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Prolog             1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Assembly           1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Objective-C        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
