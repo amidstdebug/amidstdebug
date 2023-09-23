@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Jupyter          1 hr 18 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-Python           1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-Prolog           1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Assembly         56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-JSON             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Python           1 hr 6 mins     █████████████████▓░░░░░░░   70.09 %
+JSON             17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+Jupyter          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Assembly         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
