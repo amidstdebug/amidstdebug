@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Python           3 hrs 26 mins   ████████████████░░░░░░░░░   64.37 %
-JSON             33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Text             23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Jupyter          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Assembly         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Python     1 hr 36 mins    ███████████████▓░░░░░░░░░   63.07 %
+JSON       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Assembly   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Bash       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Jupyter    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 ```
 
 <!--END_SECTION:waka-->
