@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-JavaScript       9 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.57 %
-Vue.js           6 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
-Text             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-YAML             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript            9 hrs 17 mins   ██████████████▓░░░░░░░░░░   59.12 %
+Vue.js                4 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+Text                  54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+YAML                  30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Python                4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
