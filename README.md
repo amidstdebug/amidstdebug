@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
-JavaScript                 2 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.74 %
-YAML                       1 hr 31 mins    ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Nginx configuration file   1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-Nginx Configuration        41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Vue.js                     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+JavaScript                 1 hr 29 mins    ████████▒░░░░░░░░░░░░░░░░   33.72 %
+YAML                       1 hr 13 mins    ███████░░░░░░░░░░░░░░░░░░   27.91 %
+Nginx configuration file   54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Nginx Configuration        22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Text                       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
