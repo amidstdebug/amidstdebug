@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
 JavaScript                 12 hrs 57 mins  ██████████████████████░░░   87.72 %
 Vue.js                     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
