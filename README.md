@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2024 - To: 28 January 2024
+From: 22 January 2024 - To: 29 January 2024
 
-Jupyter               4 hrs 24 mins   ████████████▒░░░░░░░░░░░░   49.77 %
-Python                1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-JavaScript            1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Markdown              38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-Shell Script          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Jupyter            4 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.42 %
+Python             3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 %
+JavaScript         1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Markdown           29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Shell Script       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
