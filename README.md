@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
-Jupyter    1 hr 6 mins     ████████████████████████▒   97.93 %
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
