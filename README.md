@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2024 - To: 25 February 2024
+From: 19 February 2024 - To: 26 February 2024
 
-TypeScript   5 mins          ████████████▒░░░░░░░░░░░░   49.82 %
-JSON         4 mins          █████████▒░░░░░░░░░░░░░░░   37.29 %
-HTML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Jupyter      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Jupyter      3 hrs 55 mins   ███████████████████████▓░   95.14 %
+TypeScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
