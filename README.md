@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2024 - To: 01 March 2024
+From: 24 February 2024 - To: 02 March 2024
 
 Jupyter      11 hrs 48 mins  █████████████████████████   99.55 %
 Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
