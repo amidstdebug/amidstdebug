@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Python           3 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.18 %
-Jupyter          2 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   39.93 %
-JavaScript       47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-SVG              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Jupyter          6 hrs 19 mins   ████████████████▓░░░░░░░░   66.90 %
+Python           2 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+JavaScript       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+SVG              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
