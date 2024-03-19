@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-Jupyter          9 hrs 33 mins   ████████████████████░░░░░   79.98 %
-Python           2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-JavaScript       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Jupyter          9 hrs 33 mins   ███████████████████████▓░   94.88 %
+Python           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
