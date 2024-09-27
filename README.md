@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2024 - To: 25 September 2024
+From: 19 September 2024 - To: 26 September 2024
 
-Python         2 hrs 5 mins    █████████████████▓░░░░░░░   71.16 %
-JavaScript     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Vue.js         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Shell Script   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Bash           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Python             4 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.06 %
+Vue.js             2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 %
+YAML               48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+JavaScript         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Shell Script       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
