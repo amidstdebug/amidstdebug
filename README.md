@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2024 - To: 04 October 2024
+From: 28 September 2024 - To: 05 October 2024
 
-Python         36 mins         ███████████░░░░░░░░░░░░░░   43.43 %
-Vue.js         20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-Jupyter        12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-YAML           6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JavaScript     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
