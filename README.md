@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2024 - To: 26 October 2024
+From: 20 October 2024 - To: 27 October 2024
 
-Vue.js         4 hrs 25 mins   █████████████████▓░░░░░░░   71.13 %
-JavaScript     27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-Python         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Shell Script   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Bash           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Vue.js         1 hr 12 mins    ███████████▓░░░░░░░░░░░░░   46.86 %
+Python         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+JavaScript     16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Shell Script   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Bash           14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 ```
 
 <!--END_SECTION:waka-->
