@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Jupyter   24 mins         ████████████████████████▓   99.25 %
-Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-YAML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python    36 mins         █████████████░░░░░░░░░░░░   51.80 %
+Jupyter   24 mins         ████████▓░░░░░░░░░░░░░░░░   34.73 %
+JSON      9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+YAML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
