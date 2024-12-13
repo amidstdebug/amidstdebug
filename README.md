@@ -81,6 +81,5 @@ No activity tracked
 
 ### How To Reach Me!
 1. [Email](mailto:work@jwong.dev)
-2. [Instagram](https://www.instagram.com/1kdegree)
 
 
