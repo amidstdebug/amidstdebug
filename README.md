@@ -18,9 +18,11 @@ No activity tracked
 
 ![](https://github.com/amidstdebug/atlas/blob/main/live.gif)
 
-[Deep Learning Trading Model](https://github.com/amidstdebug/Deep-Learning-Trading-Model)
-
 [CIFAR-100 GAN](https://github.com/amidstdebug/CIFAR100-GAN)
+
+![](https://github.com/amidstdebug/CIFAR100-GAN/blob/main/gan.gif)
+
+[Deep Learning Trading Model](https://github.com/amidstdebug/Deep-Learning-Trading-Model)
 
 [CIFAR-100 Classifier](https://github.com/amidstdebug/CIFAR100-Classifier)
 
