@@ -15,6 +15,7 @@ No activity tracked
 ### Here are some projects that I've worked on!
 
 [Real-time ATC Speeech Transcription and Report Generation Software](https://github.com/amidstdebug/atlas)
+
 ![](https://github.com/amidstdebug/atlas/blob/main/live.gif)
 
 [Deep Learning Trading Model](https://github.com/amidstdebug/Deep-Learning-Trading-Model)
