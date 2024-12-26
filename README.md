@@ -5,10 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-Python    1 hr 22 mins    ██████████████████████▒░░   89.23 %
-Jupyter   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Python     8 hrs 6 mins    ██████████████████████▓░░   90.41 %
+Jupyter    43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+CSV/TSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
