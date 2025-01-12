@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
 Python    2 mins          ██████████████████████▓░░   91.26 %
 Jupyter   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
