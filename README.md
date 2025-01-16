@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Python     2 hrs 21 mins   █████████████████████████   99.54 %
-Jupyter    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     6 hrs 4 mins    ███████████████████████░░   92.00 %
+Text       24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+CSV/TSV    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+textmate   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
