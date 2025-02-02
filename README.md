@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-No activity tracked
+JavaScript         1 hr 32 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Vue.js             1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Markdown           38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Python             31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+YAML               22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
