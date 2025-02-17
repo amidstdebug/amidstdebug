@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-Python             6 hrs 5 mins    ███████████████████░░░░░░   76.11 %
-Text               44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Bash               24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Shell Script       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Python           4 hrs 14 mins   ████████████████████░░░░░   79.71 %
+Bash             21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Text             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Shell Script     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+SQL              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
