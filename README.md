@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-Python         5 mins          ████████████████████░░░░░   80.00 %
-Shell Script   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Bash           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Text           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
