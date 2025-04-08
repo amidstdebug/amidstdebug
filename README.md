@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Python   5 hrs 10 mins   ████████████████████████▓   98.75 %
-SQL      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   2 hrs 44 mins   ████████████████████████▓   98.52 %
+SQL      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
