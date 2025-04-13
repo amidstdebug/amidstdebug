@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-Python             2 hrs 46 mins   █████████████████▓░░░░░░░   70.48 %
-Jupyter            1 hr            ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
-Markdown           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-SQL                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python             2 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+Jupyter            2 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   35.38 %
+Text               1 hr 45 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+Markdown           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+SQL                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
