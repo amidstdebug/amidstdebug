@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2025 - To: 26 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Jupyter          1 hr 54 mins    ███████████████░░░░░░░░░░   60.46 %
-Markdown         45 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Text             15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JavaScript       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python           6 hrs 39 mins   ███████████████▓░░░░░░░░░   63.13 %
+Jupyter          2 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
+Markdown         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Text             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Docker           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
