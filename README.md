@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2025 - To: 26 May 2025
+From: 20 May 2025 - To: 27 May 2025
 
 Jupyter    3 hrs 35 mins   █████████████████████░░░░   84.06 %
 Python     22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
