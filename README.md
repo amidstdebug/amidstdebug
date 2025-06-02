@@ -5,12 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-CSV/TSV    13 mins         ████████████████░░░░░░░░░   64.63 %
-Jupyter    6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.61 %
-CSV        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
