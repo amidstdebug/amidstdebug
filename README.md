@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Python             14 mins         ████████████████████████▓   98.67 %
-Requirements.txt   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python             2 hrs 5 mins    ███████████████░░░░░░░░░░   60.54 %
+Markdown           28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+YAML               15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Shell Script       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Bash               8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
