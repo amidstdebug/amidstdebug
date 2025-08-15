@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Python       21 mins         ██████████████░░░░░░░░░░░   55.36 %
-Bash         14 mins         █████████▓░░░░░░░░░░░░░░░   38.01 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-textmate     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
