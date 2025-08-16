@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-No activity tracked
+Jupyter            14 mins         ███████████████████████░░   91.91 %
+Python             1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+CSV/TSV            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
