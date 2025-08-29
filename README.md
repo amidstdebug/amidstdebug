@@ -5,13 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Python     10 mins         ████████████████▓░░░░░░░░   66.53 %
-Vue.js     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-YAML       2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python    12 mins         ████████████████████░░░░░   80.27 %
+Jupyter   3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.73 %
 ```
 
 <!--END_SECTION:waka-->
