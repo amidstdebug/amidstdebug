@@ -5,10 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Python    12 mins         ████████████████████░░░░░   80.27 %
-Jupyter   3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+Python     45 mins         ██████████████████████▓░░   91.12 %
+Jupyter    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
