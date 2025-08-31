@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Python     45 mins         ██████████████████████▓░░   91.12 %
-Jupyter    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python             2 hrs 16 mins   ████████████████▒░░░░░░░░   65.27 %
+Bash               31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Other              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Requirements.txt   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Text               8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
