@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Python             2 hrs 16 mins   ████████████████▒░░░░░░░░   65.27 %
-Bash               31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Other              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Requirements.txt   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Text               8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Python             2 hrs 26 mins   ████████████████░░░░░░░░░   63.99 %
+Bash               39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+Other              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Requirements.txt   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Text               8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
