@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Python             2 hrs 38 mins   ███████████████▓░░░░░░░░░   62.22 %
-Bash               39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-CSV/TSV            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Other              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Requirements.txt   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python             2 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   44.89 %
+Markdown           52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+Bash               39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+CSV/TSV            20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Other              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
