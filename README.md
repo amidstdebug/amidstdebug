@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Python             6 hrs 50 mins   █████████████████▒░░░░░░░   69.62 %
-CSV                55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Jupyter            36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-JSON               26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Text               22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Python             9 hrs 18 mins   █████████████████░░░░░░░░   67.58 %
+CSV                1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Text               52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Jupyter            41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+CSV/TSV            40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
