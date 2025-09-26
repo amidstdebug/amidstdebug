@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Python             4 hrs 4 mins    ██████████████████░░░░░░░   72.50 %
-Jupyter            28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Text               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-TypeScript         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Shell Script       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Python             2 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.10 %
+Bash               1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Shell Script       45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+YAML               37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+TypeScript         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
 ```
 
 <!--END_SECTION:waka-->
