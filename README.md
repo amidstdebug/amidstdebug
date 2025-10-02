@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 24 September 2025 - To: 01 October 2025
 
-Python             11 hrs 20 mins  ██████████████▓░░░░░░░░░░   58.84 %
-Bash               1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-TypeScript         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-CSV                52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-YAML               46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Python             12 hrs 56 mins  ██████████████████▒░░░░░░   73.03 %
+CSV                1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Bash               41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Text               37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+CSV/TSV            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
