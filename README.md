@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-Jupyter        1 hr 38 mins    ███████████████████████▒░   93.81 %
-Python         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-CSV            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-textmate       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Vue.js         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
