@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Python             2 hrs 22 mins   ██████████████████▒░░░░░░   73.01 %
-CSV                15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-CSV/TSV            12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Docker             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Bash               5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Python             26 mins         ██████████████▒░░░░░░░░░░   57.16 %
+Docker             8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+Bash               5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Jupyter            3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Markdown           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
 ```
 
 <!--END_SECTION:waka-->
