@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2025 - To: 28 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
-Python             26 mins         ██████████████▒░░░░░░░░░░   57.16 %
-Docker             8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-Bash               5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Jupyter            3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Markdown           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
