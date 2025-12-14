@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-No activity tracked
+Python             2 hrs 4 mins    ███████████████████████▓░   94.00 %
+Text               7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Docker             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
