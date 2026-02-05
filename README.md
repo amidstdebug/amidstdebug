@@ -14,7 +14,7 @@ No activity tracked
 
 ### Here are some projects that I've worked on!
 
-[Real-time ATC Speeech Transcription and Report Generation Software](https://github.com/amidstdebug/atlas)
+<!--[Real-time ATC Speeech Transcription and Report Generation Software](https://github.com/amidstdebug/atlas)-->
 
 [CIFAR-100 GAN](https://github.com/amidstdebug/CIFAR100-GAN)
 
