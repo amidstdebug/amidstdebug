@@ -16,8 +16,6 @@ No activity tracked
 
 [Real-time ATC Speeech Transcription and Report Generation Software](https://github.com/amidstdebug/atlas)
 
-![](https://github.com/amidstdebug/atlas/blob/main/live.gif)
-
 [CIFAR-100 GAN](https://github.com/amidstdebug/CIFAR100-GAN)
 
 ![](https://github.com/amidstdebug/CIFAR100-GAN/blob/main/gan.gif)
