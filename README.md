@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2026 - To: 23 March 2026
+From: 17 March 2026 - To: 24 March 2026
 
-Python         10 hrs 50 mins        ██████████████████████░░░   87.43 %
-Markdown       1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-CSV            8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-textmate       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Bash           3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python             10 hrs 56 mins        ███████████████████▓░░░░░   78.59 %
+Markdown           1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Jupyter            24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+CSV                15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Requirements.txt   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
