@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Python   3 hrs 48 mins         ████████████████████████▓   98.32 %
-CSV      3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Python   1 hr 38 mins          ████████████████████████░   96.19 %
+CSV      3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
