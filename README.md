@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
-Jupyter          42 mins               ██████████████████████▒░░   88.82 %
-Text             2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-GitIgnore file   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Shell Script     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Python           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Bash             3 mins                █████████░░░░░░░░░░░░░░░░   36.53 %
+TeX              1 min                 ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+textmate         1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+GitIgnore file   1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Shell Script     0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
 ```
 
 <!--END_SECTION:waka-->
