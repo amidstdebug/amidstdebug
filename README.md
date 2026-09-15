@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Bash             3 mins                █████████░░░░░░░░░░░░░░░░   36.53 %
-TeX              1 min                 ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-textmate         1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-GitIgnore file   1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Shell Script     0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Bash       3 mins                █████████████▓░░░░░░░░░░░   54.61 %
+TeX        1 min                 █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+textmate   1 min                 █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
 ```
 
 <!--END_SECTION:waka-->
