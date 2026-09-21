@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2026 - To: 19 September 2026
+From: 13 September 2026 - To: 20 September 2026
 
-No activity tracked
+TeX                        2 hrs 45 mins         ███████████████▓░░░░░░░░░   63.06 %
+LaTeX source file          47 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+BibTeX                     14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+BibTeX bibliography file   13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+GitIgnore file             13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
