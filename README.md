@@ -83,6 +83,6 @@ No activity tracked
 
 
 ### How To Reach Me!
-1. [Email](mailto:work@jwong.dev)
+1. [Email](mailto:work@justinwong.sg)
 
 
