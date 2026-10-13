@@ -12,9 +12,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### Here are some projects that I've worked on!
+### Projects
 
 <!--[Real-time ATC Speeech Transcription and Report Generation Software](https://github.com/amidstdebug/atlas)-->
+[Bose Device Control App](https://github.com/amidstdebug/bose-device-control)
 
 [CIFAR-100 GAN](https://github.com/amidstdebug/CIFAR100-GAN)
 
