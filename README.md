@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Python           1 hr 40 mins          ██████████████░░░░░░░░░░░   55.65 %
-Markdown         35 mins               █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-YAML             19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Other            12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Batchfile        11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Other            8 mins                ██████████████░░░░░░░░░░░   55.71 %
+Markdown         4 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
+Python           2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+.env file        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
