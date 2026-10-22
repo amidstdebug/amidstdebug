@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2026 - To: 20 October 2026
+From: 14 October 2026 - To: 21 October 2026
 
-Other            8 mins                ██████████████░░░░░░░░░░░   55.71 %
-Markdown         4 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-Python           2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-.env file        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python           2 mins                █████████████▒░░░░░░░░░░░   53.05 %
+Markdown         2 mins                ███████████░░░░░░░░░░░░░░   44.41 %
+CSV/TSV          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+.env file        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
